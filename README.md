@@ -1,6 +1,4 @@
-Perfeito! Aqui está o seu `README.md` do projeto **LumerPoke**, agora lindamente formatado em Markdown e pronto para brilhar no GitHub:
 
----
 
 # 👾 LumerPoke – Sua Pokédex em React
 
